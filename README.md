@@ -1,7 +1,7 @@
 # Correr el programa
 1. Tener JRE 8 instalado
 2. Abrir el CMD
-3. Cambiar Directorio a la carpeta "target" donde se encuntra el archivo "CountWords.jar"
+3. Cambiar Directorio a la carpeta donde se encuntra el archivo "CountWords.jar". En este moneto ete archivo esta en la carpeta "target" del proyecto.
 4. Correr el siguiente comando "java -jar CountWords.jar \<Ruta Absoluta del archivo\>"
   
 ![Ejecutar](https://github.com/osumasum1/CountWord/blob/master/ejecutar.png)
